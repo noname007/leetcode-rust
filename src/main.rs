@@ -1,6 +1,6 @@
 mod leetcode1;
-mod leetcode2;
+mod leetcode7;
 fn main() {
     leetcode1::run();
-    leetcode2::run();
+    leetcode7::run();
 }
